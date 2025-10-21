@@ -35,6 +35,7 @@ import {
   tshirt,
   shoe,
   rorisang,
+  threed,
   threejs,
 } from "../assets";
 
@@ -316,6 +317,28 @@ const projects = [
       },
     ],
     image: rorisang,
+    source_code_link: "https://github.com/RBLucky/rm-portfolio",
+    live_site_link: "https://rorisang-mathe.vercel.app/",
+  },
+  {
+    name: "3D Text",
+    description:
+      "An interactive 3D text experience featuring the name Lucky Nkosi — blending motion, light, and depth to turn a name into digital art.",
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "threejs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: threed,
     source_code_link: "https://github.com/RBLucky/rm-portfolio",
     live_site_link: "https://rorisang-mathe.vercel.app/",
   },

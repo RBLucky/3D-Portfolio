@@ -43,6 +43,7 @@ import tripguide from "./tripguide.png";
 import tshirt from "./tshirt.png";
 import shoe from "./shoe.png";
 import rorisang from "./rorisang.png";
+import threed from "./3d.png"
 
 export {
   logo,
@@ -87,4 +88,5 @@ export {
   tshirt,
   shoe,
   rorisang,
+  threed,
 };
