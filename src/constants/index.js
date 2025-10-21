@@ -34,6 +34,7 @@ import {
   tripguide,
   tshirt,
   shoe,
+  rorisang,
   threejs,
 } from "../assets";
 
@@ -295,6 +296,28 @@ const projects = [
     image: shoe,
     source_code_link: "https://github.com/RBLucky/ShoeRepublic",
     live_site_link: "https://shoe-republic-one.vercel.app/",
+  },
+  {
+    name: "Rorisang Mathe Portfolio",
+    description:
+      "Rorisang Mathe is a social media specialist showcasing, in her portfolio, creative campaigns and strategies that grow brands online.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "threejs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "gsap",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: rorisang,
+    source_code_link: "https://github.com/RBLucky/rm-portfolio",
+    live_site_link: "https://rorisang-mathe.vercel.app/",
   },
 ];
 
