@@ -41,6 +41,7 @@ import link from "./link.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import tshirt from "./tshirt.png";
+import shoe from "./shoe.png"
 
 export {
   logo,
@@ -83,4 +84,5 @@ export {
   jobit,
   tripguide,
   tshirt,
+  shoe,
 };

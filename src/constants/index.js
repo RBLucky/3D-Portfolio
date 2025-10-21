@@ -33,6 +33,7 @@ import {
   jobit,
   tripguide,
   tshirt,
+  shoe,
   threejs,
 } from "../assets";
 
@@ -61,7 +62,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Frontend Developer",
     icon: backend,
   },
   {
@@ -272,6 +273,28 @@ const projects = [
     image: tshirt,
     source_code_link: "https://github.com/RBLucky/3D-Shirt-Frontend",
     live_site_link: "https://make-it-yours.vercel.app/",
+  },
+  {
+    name: "Shoe Republic",
+    description:
+      "Shoe Republic — born from the streets of Joburg. Your plug for fresh kicks, local heat, and streetwear made for those who walk loud and live bold.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "drizzle",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: shoe,
+    source_code_link: "https://github.com/RBLucky/ShoeRepublic",
+    live_site_link: "https://shoe-republic-one.vercel.app/",
   },
 ];
 
