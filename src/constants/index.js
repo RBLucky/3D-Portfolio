@@ -339,8 +339,8 @@ const projects = [
       },
     ],
     image: threed,
-    source_code_link: "https://github.com/RBLucky/rm-portfolio",
-    live_site_link: "https://rorisang-mathe.vercel.app/",
+    source_code_link: "https://github.com/RBLucky/3D-Text",
+    live_site_link: "https://3d-text-two-rose.vercel.app/",
   },
 ];
 
